@@ -76,16 +76,13 @@ The analysis evaluated sensors based on their correlation with reference analyze
 
 ## 📈 Visualizations Included
 
-* 
-**Univariate Analysis**: Histograms of CO concentration.
+* **Univariate Analysis**: Histograms of CO concentration.
 
 
-* 
-**Time-Series**: Daily average CO trends and diurnal variation plots.
+* **Time-Series**: Daily average CO trends and diurnal variation plots.
 
 
-* 
-**Bivariate Analysis**: Correlation heatmaps and pairwise relationship matrices.
+* **Bivariate Analysis**: Correlation heatmaps and pairwise relationship matrices.
 
 
 * 
